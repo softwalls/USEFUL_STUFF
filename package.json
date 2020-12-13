@@ -1,6 +1,7 @@
 {
   "name": "useful_stuff",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "bubble_sort.js",
   "scripts": {
@@ -19,6 +20,8 @@
   "devDependencies": {
     "eslint": "^7.15.0",
     "eslint-config-airbnb-base": "^14.2.1",
-    "eslint-plugin-import": "^2.22.1"
+    "eslint-plugin-import": "^2.22.1",
+    "jest": "^25.2.2",
+    "supertest": "^6.0.1"
   }
 }
